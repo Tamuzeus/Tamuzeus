@@ -1,7 +1,5 @@
  ## Hi, you can call me Tamuz!
-- 🌱 HTML5, CSS3, Boostrap, SASS and JS.
-- 📫 How to reach me: igortamuz@gmail.com or @zeus.avi.
-
+- 📫 How to reach me: igortamuz@gmail.com.
 
    ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">

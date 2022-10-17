@@ -16,9 +16,9 @@
   </div>    
   
    <div align="center"> 
-      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6087700b-332f-4ec4-9b4e-58001a389e60/da8yaba-62a7d499-8042-44c5-9845-a2cb6ebb0dfc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwODc3MDBiLTMzMmYtNGVjNC05YjRlLTU4MDAxYTM4OWU2MFwvZGE4eWFiYS02MmE3ZDQ5OS04MDQyLTQ0YzUtOTg0NS1hMmNiNmViYjBkZmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uRj2kd1Obs-xrfZCwfyP7O776ef2yNJN5jQMvNPC6yg" height="130" width="200" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/228735137119811.62054724baf0b.gif" height="130" width="200" align="center">
-      <img src="https://i.pinimg.com/originals/66/d8/3f/66d83f35b05ea7cd86d13a0dc4a2ca16.gif" height="130" width="200" align="center">
+      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6087700b-332f-4ec4-9b4e-58001a389e60/da8yaba-62a7d499-8042-44c5-9845-a2cb6ebb0dfc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwODc3MDBiLTMzMmYtNGVjNC05YjRlLTU4MDAxYTM4OWU2MFwvZGE4eWFiYS02MmE3ZDQ5OS04MDQyLTQ0YzUtOTg0NS1hMmNiNmViYjBkZmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uRj2kd1Obs-xrfZCwfyP7O776ef2yNJN5jQMvNPC6yg" height="130" width="220" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/228735137119811.62054724baf0b.gif" height="130" width="220" align="center">
+      <img src="https://i.pinimg.com/originals/66/d8/3f/66d83f35b05ea7cd86d13a0dc4a2ca16.gif" height="130" width="220" align="center">
  
    </div>
 

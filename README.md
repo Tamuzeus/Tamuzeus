@@ -1,8 +1,11 @@
-  <h1 align="left">Hi, Everybody I'm 
-  Tamuz!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-   <a target="_blank" href="mailto:igortamuz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>       </a>
-   <a href="https://www.linkedin.com/in/igor-tamuz-913b001b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fuzzy+Bubbles&size=40&pause=1000&color=3A49FF&vCenter=true&width=700&lines=Hello+World%2C+I'm+Tamuz%F0%9F%A6%96" alt="Typing SVG" /></a>
+  ##
+  <a target="_blank" href="mailto:igortamuz@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+  </a>
+   <a href="https://www.linkedin.com/in/igor-tamuz-913b001b8/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a> 
   <!--<a href="https://instagram.com/zeus.avi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <div> 
     <div>

@@ -12,16 +12,17 @@
     <em> 
   - Fullstack developer <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" height="40" align="center"> </img> <br>
   - Game lover <img src="https://64.media.tumblr.com/4f6e8d2395f3b913a67613ba6101d568/tumblr_mpvv1jre3q1rfjowdo1_500.gif" height="34" align="center"> </img> <br>
-  - Direct from <b>Imperatriz, Brazil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13"/><br>
+  - Direct from <b>Imperatriz, Brazil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13" align="center"/><br>
   <br>
+ 
    </em>
    
   </div>    
   
    <div align="center"> 
-      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6087700b-332f-4ec4-9b4e-58001a389e60/da8yaba-62a7d499-8042-44c5-9845-a2cb6ebb0dfc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwODc3MDBiLTMzMmYtNGVjNC05YjRlLTU4MDAxYTM4OWU2MFwvZGE4eWFiYS02MmE3ZDQ5OS04MDQyLTQ0YzUtOTg0NS1hMmNiNmViYjBkZmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uRj2kd1Obs-xrfZCwfyP7O776ef2yNJN5jQMvNPC6yg" height="130" width="240" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/228735137119811.62054724baf0b.gif" height="130" width="240" align="center">
-      <img src="https://i.pinimg.com/originals/66/d8/3f/66d83f35b05ea7cd86d13a0dc4a2ca16.gif" height="130" width="240" align="center">
+      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6087700b-332f-4ec4-9b4e-58001a389e60/da8yaba-62a7d499-8042-44c5-9845-a2cb6ebb0dfc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwODc3MDBiLTMzMmYtNGVjNC05YjRlLTU4MDAxYTM4OWU2MFwvZGE4eWFiYS02MmE3ZDQ5OS04MDQyLTQ0YzUtOTg0NS1hMmNiNmViYjBkZmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uRj2kd1Obs-xrfZCwfyP7O776ef2yNJN5jQMvNPC6yg" height="130" width="260" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/228735137119811.62054724baf0b.gif" height="130" width="260" align="center">
+      <img src="https://i.pinimg.com/originals/66/d8/3f/66d83f35b05ea7cd86d13a0dc4a2ca16.gif" height="130" width="260" align="center">
  
    </div>
 

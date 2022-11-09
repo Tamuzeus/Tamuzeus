@@ -12,7 +12,7 @@
     <em> 
   - Fullstack developer <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" height="40" align="center"> </img> <br>
   - Games lover <img src="https://64.media.tumblr.com/4f6e8d2395f3b913a67613ba6101d568/tumblr_mpvv1jre3q1rfjowdo1_500.gif" height="34" align="center"> </img> <br>
-  - Direct from <b>Imperatriz, Brazil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13" align="center"/><br>
+  - Direct from <b>Imperatriz, Brazil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13" /><br>
   <br>
  
    </em>

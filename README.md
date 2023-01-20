@@ -53,10 +53,6 @@
   
   <img align="center" height="300em" src="https://camo.githubusercontent.com/36500fe1645489b5fc245d2e6b129426a1d139cc3ae4f8389099aa14d3bb0667/68747470733a2f2f7777772e7468656d61737465727069636b732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f32326232323238373630323532332e356462643239303831353631642e676966"/>
   
-  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamuzeus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamuzeus&layout=compact&langs_count=7&theme=dark"/>
-  </div>
 </div>
  
    ##

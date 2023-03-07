@@ -15,7 +15,7 @@
   - Direct from <b>Imperatriz, Brazil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13" /><br>
   - Alegria! <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13" /><br>
   - Programming, studying, reading comics and mangas!
-   
+   <br>
    <br>
  
    </em>

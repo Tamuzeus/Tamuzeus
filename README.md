@@ -40,16 +40,7 @@
   <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <!--   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
  -->
-   
-##
-
-<div align="center">
-<a href="https://github.com/tamuzeus">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamuzeus&layout=compact&langs_count=7&theme=ocean_dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tamuzeus&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-##
+  
 
    <div align="center"> 
       <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6087700b-332f-4ec4-9b4e-58001a389e60/da8yaba-62a7d499-8042-44c5-9845-a2cb6ebb0dfc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwODc3MDBiLTMzMmYtNGVjNC05YjRlLTU4MDAxYTM4OWU2MFwvZGE4eWFiYS02MmE3ZDQ5OS04MDQyLTQ0YzUtOTg0NS1hMmNiNmViYjBkZmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uRj2kd1Obs-xrfZCwfyP7O776ef2yNJN5jQMvNPC6yg" height="130" width="260" align="center">
